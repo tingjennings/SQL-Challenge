@@ -68,11 +68,3 @@ CREATE TABLE "titles" (
 
 -- ALTER TABLE "employees" ADD CONSTRAINT "fk_titles_emp_no" FOREIGN KEY("emp_no")
 -- REFERENCES "titles" ("emp_no");
-
--- Query * FROM Each Table Confirming Data
-SELECT * FROM departments;
-SELECT * FROM dept_emp;
-SELECT * FROM dept_manager;
-SELECT * FROM employees;
-SELECT * FROM salaries;
-SELECT * FROM titles;
