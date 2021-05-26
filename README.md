@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
@@ -13,8 +13,6 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 3. Data Analysis
 
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
-
-### Before You Begin
 
 1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
 
