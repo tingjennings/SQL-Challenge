@@ -14,8 +14,11 @@ In this assignment, you will design the tables to hold data in the CSVs, import 
 
 Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
 
+<<<<<<< HEAD
 ### Before You Begin
 
+=======
+>>>>>>> b2111f4e5b980a191609f60fcd862aadb37c7bac
 1. Create a new repository for this project called `sql-challenge`. 
 
 2. Clone the new repository to your computer.
@@ -109,6 +112,5 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](https://www.mockaroo.com/)
 
-- - -
 
 
