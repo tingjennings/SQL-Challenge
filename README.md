@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
 
@@ -16,7 +16,7 @@ Note: You may hear the term "Data Modeling" in place of "Data Engineering," but 
 
 ### Before You Begin
 
-1. Create a new repository for this project called `sql-challenge`. **Do not add this homework to an existing repository**.
+1. Create a new repository for this project called `sql-challenge`. 
 
 2. Clone the new repository to your computer.
 
@@ -101,7 +101,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 ## Rubric
 
-[Unit 9 Rubric - SQL Homework - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
+[Unit 9 Rubric - SQL - Employee Database: A Mystery in Two Parts](https://docs.google.com/document/d/1OksnTYNCT0v0E-VkhIMJ9-iG0_oXNwCZAJlKV0aVMKQ/edit?usp=sharing)
 
 - - -
 
@@ -111,4 +111,4 @@ Mockaroo, LLC. (2021). Realistic Data Generator. [https://www.mockaroo.com/](htt
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
